@@ -3,7 +3,7 @@ const app = express();
 
 const PORT = 3000;
 app.set('view engine','jade');
-app.set('view','.src/..');
+app.set('view', './view');
 
 app.get('/',function(req,res)
 {
