@@ -1,0 +1,27 @@
+{
+  "name": "testjade",
+  "version": "1.0.0",
+  "description": "Sample Website built with Express.js + Jade",
+  "dependencies": {
+    "express": "^4.10.6",
+    "jade": "^1.8.2"
+  },
+  "main": "test8.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aodlichao2012-lnw/dddddd.git"
+  },
+  "keywords": [
+    "tesgt8"
+  ],
+  "author": "suparat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aodlichao2012-lnw/dddddd/issues"
+  },
+  "homepage": "https://github.com/aodlichao2012-lnw/dddddd#readme"
+}

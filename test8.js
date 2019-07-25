@@ -1,9 +1,9 @@
 const express = require('express');
 const app = express();
-
+const jade = require('jade');
 const PORT = 3000;
 app.set('view engine','jade');
-app.set('view', './view');
+app.set('views', './view');
 
 app.get('/',function(req,res)
 {
