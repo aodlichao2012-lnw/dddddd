@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Sample Website built with Express.js + Jade",
   "dependencies": {
-    "express": "^4.10.6",
+    "express": "^4.18.2",
     "jade": "^1.8.2"
   },
   "main": "test8.js",
